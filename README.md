@@ -4,6 +4,7 @@ DemoFile.Net is a blazing fast demo parser library for Counter-Strike 2, written
 used from Windows, Mac or Linux.
 
 ![Screenshot of DemoFile.Net](./assets/screenshot-2x.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaul%2Fdemofile-net.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaul%2Fdemofile-net?ref=badge_shield)
 
 ## Features
 
@@ -73,3 +74,7 @@ A modified version of [Source2Gen by neverlosecc](https://github.com/neverlosecc
 generate the game schema classes and enums.
 
 See [ACKNOWLEDGEMENTS](./ACKNOWLEDGEMENTS) for license information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaul%2Fdemofile-net.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaul%2Fdemofile-net?ref=badge_large)
